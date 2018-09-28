@@ -1,6 +1,6 @@
 # How to optimize a website
 
-We can optimize the following aspects:
+DO NOT use premature optimization, but how we can optimize the website:
 
 * Decrease network lag,
     * Minimize and concat source files
@@ -9,6 +9,7 @@ We can optimize the following aspects:
         * [jpeg optimizer](http://jpeg-optimizer.com/)
         * [tinypng.com](https://tinypng.com/),
         * for `jpeg` set 30-60% qualify
+        * Read about [image formats](https://www.sitepoint.com/gif-png-jpg-which-one-to-use/)
     * For different screen sizes provide background-image of different sizes, by using media queries
     * Resource CDN
         * [imgix &#10084;](https://www.imgix.com/)
@@ -23,7 +24,12 @@ We can optimize the following aspects:
     * Use tools to analyze the website
         * [webpagetest.org](https://www.webpagetest.org/)
         * [page speed insights](https://developers.google.com/speed/pagespeed/insights/)
+        * Use [pageweight](https://pageweight.imgix.com/) to analyze your image assets impact
     * Script
         * async - add this attribute to all scripts which don't affect DOM or CSS (analytic or tracking scripts)
         * defer - not important, third-party scripts should go with this attribute
     * Try to get rid of jQuery: [youmightnotneedjquery.com](http://youmightnotneedjquery.com/)
+    * Try to use [resource prefetching](https://css-tricks.com/prefetching-preloading-prebrowsing/)
+    * [Max parallel connects per a browser](https://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser)
+    * Use [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+        `const http2 = require('http2);`
