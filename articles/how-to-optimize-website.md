@@ -11,7 +11,8 @@ DO NOT use premature optimization, but how we can optimize the website:
         * for `jpeg` set 30-60% qualify
         * Read about [image formats](https://www.sitepoint.com/gif-png-jpg-which-one-to-use/)
     * For different screen sizes provide background-image of different sizes, by using media queries
-    * Resource CDN
+        * Use [srcset](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) to define different `<img>` tag src attribute values
+    * Use resource CDN
         * [imgix &#10084;](https://www.imgix.com/)
         * [filestack](https://www.filestack.com/)
     * Remove metadata (Exif) from image files with [verexif.com](http://www.verexif.com/)
