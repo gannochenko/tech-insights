@@ -34,7 +34,6 @@ DO NOT use premature optimization, but how we can optimize the website:
     * [Max parallel connects per a browser](https://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser)
     * Use [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
         `const http2 = require('http2);`
-    * Do code splitting
-        * Per-page with [react router](https://reactjs.org/docs/code-splitting.html)
-        * Per-component with [react-loadable](https://github.com/jamiebuilds/react-loadable)
-    * Analyze the performance with react_perf and Chrome React tools
+    * [Optimize your React](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/react-optimization.md)
+    * Do code tree shaking: example: `underscore-mixin` sucks, because it imports all the fucking `unserscore` library. Switch to `lodash`?
+    * Avoid memory leaks

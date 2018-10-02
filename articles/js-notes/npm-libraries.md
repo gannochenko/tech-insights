@@ -16,3 +16,5 @@
     * [Glamorous](https://glamorous.rocks)
     * [MaterialUI](https://material-ui.com/)
     * [SemanticUI](http://react.semantic-ui.com/)
+* Devel tools
+    * [Why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
