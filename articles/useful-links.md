@@ -7,5 +7,6 @@
     * [FontSquirrel](https://www.fontsquirrel.com/)
 * Free images
     * [Unsplash](https://unsplash.com/)
-* Free HDRI
     * [HDRI heaven](https://hdrihaven.com/)
+* [Webpack generator](http://web.jakoblind.no/webpack-config/)
+* [Fellow Students :)](https://github.com/zero-to-mastery)
