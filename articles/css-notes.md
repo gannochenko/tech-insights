@@ -7,3 +7,8 @@
     pointer-events: none;
 }
 ~~~
+
+* Show text before the font gets loaded
+~~~
+font-display: swap;
+~~~
