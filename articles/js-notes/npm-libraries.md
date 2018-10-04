@@ -20,3 +20,6 @@
     * [Why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
 * Deployment
     * [gh-pages](https://www.npmjs.com/package/gh-pages)
+* Testing
+    * [jest](https://www.npmjs.com/package/jest)
+    * [json-server](https://github.com/typicode/json-server)

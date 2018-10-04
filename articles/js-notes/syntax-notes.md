@@ -11,3 +11,13 @@ To return an object:
 ~~~~
 arr.map(item => ({someting: iterm}))
 ~~~~
+
+Use the minimalistic syntax as much is possible:
+~~~~
+arr.map(item => item.data)
+~~~~
+instead of
+~~~~
+arr.map((item) => { return item.data });
+~~~~
+

@@ -8,6 +8,7 @@
 * [CSS notes](https://github.com/awesome1888/tech-insights/blob/master/articles/css-notes/index.md)
 * [System design notes](https://github.com/awesome1888/tech-insights/blob/master/articles/system-design-notes.md)
 * [PWA](https://github.com/awesome1888/tech-insights/blob/master/articles/pwa.md)
+* [Testing](https://github.com/awesome1888/tech-insights/blob/master/articles/testing.md)
 * [Ways to host](https://github.com/awesome1888/tech-insights/blob/master/articles/ways-to-host.md)
 * [Ethics](https://github.com/awesome1888/tech-insights/blob/master/articles/ethics.md)
 
