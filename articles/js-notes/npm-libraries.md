@@ -10,7 +10,8 @@
     * [redux reselect](https://github.com/reduxjs/reselect)
 * Helpers
     * [Ramda](https://ramdajs.com)
-    * Lodash
+    * [Lodash](https://www.npmjs.com/search?q=lodash)
+        * You can import `lodash` methods as separated `npm` modules
     * Underscore
 * Styling
     * [Glamorous](https://glamorous.rocks)

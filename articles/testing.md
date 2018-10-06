@@ -11,7 +11,7 @@
    
 * Test runners
     * Mocha
-    * Jest
+    * [Jest](https://jestjs.io/)
     * Jasmine
     * Karma
 * Assertion library
@@ -35,6 +35,17 @@
 
 * [json-server](https://github.com/typicode/json-server)
 * [swapi](https://swapi.co)
+
+## React testing
+
+* [enzyme](https://github.com/airbnb/enzyme)
+    * `shallow` renders a component without it's children
+    * `mount` does component mounting with a lifecycle, it is required to have `jsdom` in order to work
+    * `render` renders a component into a string
+* Do snapshot testing
+
+## Commands
+   `npm test -- --coverage`
 
 ## Useful links
 
