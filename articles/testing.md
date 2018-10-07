@@ -42,7 +42,13 @@
     * `shallow` renders a component without it's children
     * `mount` does component mounting with a lifecycle, it is required to have `jsdom` in order to work
     * `render` renders a component into a string
+* [redux-mock-store](https://www.npmjs.com/package/redux-mock-store)
 * Do snapshot testing
+
+## API testing
+   
+* Mocking API with [nock](https://www.npmjs.com/package/nock)
+* Testing API with [supertest](https://www.npmjs.com/package/supertest)
 
 ## Commands
    `npm test -- --coverage`
