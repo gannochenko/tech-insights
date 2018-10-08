@@ -10,6 +10,7 @@
 * [PWA](https://github.com/awesome1888/tech-insights/blob/master/articles/pwa.md)
 * [Testing](https://github.com/awesome1888/tech-insights/blob/master/articles/testing.md)
 * [Ways to host](https://github.com/awesome1888/tech-insights/blob/master/articles/ways-to-host.md)
+* [How to highlight syntax in code snippet](https://github.com/awesome1888/tech-insights/blob/master/articles/how-to-highlight-syntax-in-code-snippet.md)
 * [Ethics](https://github.com/awesome1888/tech-insights/blob/master/articles/ethics.md)
 
 * [Conclusion](https://github.com/awesome1888/tech-insights/blob/master/articles/conclusion.md)
