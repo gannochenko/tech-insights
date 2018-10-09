@@ -15,3 +15,6 @@
 * [WhatWebCanDo](https://whatwebcando.today)
 * [Babel online](https://babeljs.io/en/repl)
 * [Can I Use](https://caniuse.com/)
+* CSS generators
+    * [Gradient](http://www.colorzilla.com/gradient-editor/)
+    * [Box shadow](https://css3gen.com/box-shadow/)
