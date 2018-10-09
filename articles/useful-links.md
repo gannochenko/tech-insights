@@ -18,3 +18,8 @@
 * CSS generators
     * [Gradient](http://www.colorzilla.com/gradient-editor/)
     * [Box shadow](https://css3gen.com/box-shadow/)
+* Unicode and characters
+    * [Unicode converter](https://r12a.github.io/app-conversion/)
+    * [HTML entities](https://dev.w3.org/html5/html-author/charref)
+* Time converters
+    * [Epoch converter](https://www.epochconverter.com/)

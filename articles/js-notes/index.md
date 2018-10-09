@@ -10,3 +10,4 @@
 * [Reflection](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/reflection.md)
 * [React optimization](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/react-optimization.md)
 * [Syntax notes](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/syntax-notes.md)
+* [Express Security](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/express-security.md)
