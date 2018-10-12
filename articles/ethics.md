@@ -1,4 +1,4 @@
 # Ethics
 
 * Choose Simplicity over Complexity
-* Lear how to learn
+* Learn how to learn
