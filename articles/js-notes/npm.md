@@ -1,4 +1,11 @@
-# Libraries
+# NPM
+
+* How to view dependences<br />
+    `npm list <dependency>`<br />
+    [See more here](https://stackoverflow.com/questions/25997519/how-to-view-the-dependency-tree-of-a-given-npm-module)
+    
+
+## Libraries
 
 * React
     * [immutable js](http://facebook.github.io/immutable-js/)
