@@ -23,4 +23,10 @@
     * [gh-pages](https://www.npmjs.com/package/gh-pages)
 * Testing
     * [jest](https://www.npmjs.com/package/jest)
-    * [json-server](https://github.com/typicode/json-server)
+    * [enzyme](https://github.com/airbnb/enzyme)
+* Mockers
+    * API
+        * [json-server](https://github.com/typicode/json-server)
+* Server emulators
+    * [nodemon](https://www.npmjs.com/package/nodemon)
+    * [webpack dev server](https://www.npmjs.com/package/webpack-dev-server) 
