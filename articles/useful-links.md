@@ -23,3 +23,5 @@
     * [HTML entities](https://dev.w3.org/html5/html-author/charref)
 * Time converters
     * [Epoch converter](https://www.epochconverter.com/)
+* To check your platform for vulnerabilities (for money)
+    * [Hacker one](https://www.hackerone.com/)

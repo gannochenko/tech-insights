@@ -36,4 +36,6 @@
         * [json-server](https://github.com/typicode/json-server)
 * Server emulators
     * [nodemon](https://www.npmjs.com/package/nodemon)
-    * [webpack dev server](https://www.npmjs.com/package/webpack-dev-server) 
+    * [webpack dev server](https://www.npmjs.com/package/webpack-dev-server)
+* Data visualization
+    * [bizcharts](https://www.npmjs.com/package/bizcharts)
