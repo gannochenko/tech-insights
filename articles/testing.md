@@ -35,6 +35,7 @@
 
 * [json-server](https://github.com/typicode/json-server)
 * [swapi](https://swapi.co)
+* [json placeholder](https://jsonplaceholder.typicode.com/)
 
 ## React testing
 

@@ -39,3 +39,7 @@
     * [webpack dev server](https://www.npmjs.com/package/webpack-dev-server)
 * Data visualization
     * [bizcharts](https://www.npmjs.com/package/bizcharts)
+* REST callers
+    * [isomorphic unfetch](https://www.npmjs.com/package/isomorphic-unfetch)
+    * [axios](https://www.npmjs.com/package/axios)
+    * [superagent](https://www.npmjs.com/package/superagent)
