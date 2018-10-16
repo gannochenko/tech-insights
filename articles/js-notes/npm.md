@@ -43,3 +43,8 @@
     * [isomorphic unfetch](https://www.npmjs.com/package/isomorphic-unfetch)
     * [axios](https://www.npmjs.com/package/axios)
     * [superagent](https://www.npmjs.com/package/superagent)
+* ORM / ODM
+    * [knex](https://knexjs.org/)
+    * [mongoose](https://mongoosejs.com/)
+* Security audit
+    * [snyk](https://www.npmjs.com/package/snyk)

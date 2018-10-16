@@ -8,4 +8,3 @@
 * Don't use `derived state` at all (use `reselect`?)
 * Learn how to use `Reflection` and `yield`
 * Prefer `pure function` components to regular components
-
