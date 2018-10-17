@@ -14,6 +14,7 @@
 * [Design](https://github.com/awesome1888/tech-insights/blob/master/articles/design/index.md)
 * [Docker](https://github.com/awesome1888/tech-insights/blob/master/articles/docker.md)
 * [Trainers and katas](https://github.com/awesome1888/tech-insights/blob/master/articles/trainers.md)
+* [Redis](https://github.com/awesome1888/tech-insights/blob/master/articles/redis.md)
 * [Ethics](https://github.com/awesome1888/tech-insights/blob/master/articles/ethics.md)
 
 * [Conclusion](https://github.com/awesome1888/tech-insights/blob/master/articles/conclusion.md)
