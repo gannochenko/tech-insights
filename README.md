@@ -17,4 +17,6 @@
 * [Redis](https://github.com/awesome1888/tech-insights/blob/master/articles/redis.md)
 * [Ethics](https://github.com/awesome1888/tech-insights/blob/master/articles/ethics.md)
 
+* [Read/Watch](https://github.com/awesome1888/tech-insights/blob/master/articles/read.md)
+
 * [Conclusion](https://github.com/awesome1888/tech-insights/blob/master/articles/conclusion.md)
