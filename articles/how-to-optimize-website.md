@@ -16,6 +16,10 @@ DO NOT use premature optimization, but how we can optimize the website:
         * [imgix &#10084;](https://www.imgix.com/)
         * [filestack](https://www.filestack.com/)
     * Remove metadata (Exif) from image files with [verexif.com](http://www.verexif.com/)
+    * Use HTTP cache
+        * [Varnish](https://varnish-cache.org)
+            * [Dockerized varnish](https://info.varnish-software.com/blog/varnish-docker)
+        * [Squid](http://www.squid-cache.org/)
 * Optimize backend work,
 * Optimize frontend work
     * Analyze the critical render path (DOM -> CSSOM (DOMContentLoaded) -> RenderTree -> Layout -> Paint (Load))

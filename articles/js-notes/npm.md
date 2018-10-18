@@ -46,5 +46,11 @@
 * ORM / ODM
     * [knex](https://knexjs.org/)
     * [mongoose](https://mongoosejs.com/)
+* Security
+    * [csurf]()
+    * [cask]()
 * Security audit
     * [snyk](https://www.npmjs.com/package/snyk)
+* Logging
+    * [winston](https://www.npmjs.com/package/winston)
+    * [morgan](https://www.npmjs.com/package/morgan)
