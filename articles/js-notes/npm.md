@@ -49,8 +49,18 @@
 * Security
     * [csurf]()
     * [cask]()
+    * [helmet](https://www.npmjs.com/package/helmet)
+    * [cors](https://www.npmjs.com/package/cors)
 * Security audit
     * [snyk](https://www.npmjs.com/package/snyk)
 * Logging
     * [winston](https://www.npmjs.com/package/winston)
     * [morgan](https://www.npmjs.com/package/morgan)
+* Environment
+    * [dotenv](https://www.npmjs.com/package/dotenv)
+* Hashing
+    * [bcrypt](https://www.npmjs.com/package/bcrypt)
+    * [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
+    * [scrypt](https://www.npmjs.com/package/scrypt)
+* Anti-DDOS
+    * [ratelimiter](https://www.npmjs.com/package/ratelimiter)
