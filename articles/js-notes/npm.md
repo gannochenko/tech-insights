@@ -3,7 +3,6 @@
 * How to view dependences<br />
     `npm list <dependency>`<br />
     [See more here](https://stackoverflow.com/questions/25997519/how-to-view-the-dependency-tree-of-a-given-npm-module)
-    
 
 ## Libraries
 
@@ -64,3 +63,5 @@
     * [scrypt](https://www.npmjs.com/package/scrypt)
 * Anti-DDOS
     * [ratelimiter](https://www.npmjs.com/package/ratelimiter)
+* Maps and geodata
+    * [Cesium.js](https://cesiumjs.org)

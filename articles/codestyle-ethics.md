@@ -6,6 +6,8 @@
     * Do not go too much in code generalization, you will die in frustrations about the architecture
     * Do not go too much in code specialization, you will produce code that is impossible to maintain
 * Learn how to learn
+* Do not implement or make room for features "in advance"
+* Do not perform pre-optimization
 
 ## Code style
 
