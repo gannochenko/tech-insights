@@ -9,5 +9,3 @@
 * Use [why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
 * Instead of writing `.bind()` to `on*`-methods inside `render`, you can use arrow function declaration for methods!
 * Analyze what is inside of your bundle
-
-

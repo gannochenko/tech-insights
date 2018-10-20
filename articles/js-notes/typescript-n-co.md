@@ -8,4 +8,3 @@
 ## Useful links
 
 * [TS types for the 3rd-party libraries](http://definitelytyped.org/)
-

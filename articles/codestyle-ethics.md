@@ -1,0 +1,28 @@
+# Code style and ethics (Do-s and Don't-s)
+
+## Ethics
+
+* Choose Simplicity over Complexity
+    * Do not go too much in code generalization, you will die in frustrations about the architecture
+    * Do not go too much in code specialization, you will produce code that is impossible to maintain
+* Learn how to learn
+
+## Code style
+
+### General
+
+* Use class inheritance only when needed, otherwise use composition instead
+* Don't write custom solutions, especially when you work in a big team, make everything reasonably close to documentation
+* Split your code onto functions wisely:
+    * do not create functions that appear only once and contain one line of code
+    * do not create functions that do multiple things
+    * come up with meaningful names, starting from a verb
+
+### Javascript
+
+* Do tree shaking. For instance, get rid of modules like `underscore-mixin` or refactor it, because you import the whole `underscore` by using that. Instead, import only used functions.
+* React:
+    * Don't do `.bind()`, write arrow functions (it wont hurt, because you are not going to use inheritance)
+    * Don't mess up between `controlled` and `uncontrolled` components when doing forms, choose either one or another
+    * Don't use `derived state`, use [reselect]() instead
+    * Prefer `pure function` components to regular components
