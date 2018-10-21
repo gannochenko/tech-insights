@@ -13,12 +13,16 @@
 
 ### General
 
-* Use class inheritance only when needed, otherwise use composition instead
+* OOP and inheritance
+    * Use class inheritance only when needed, otherwise use composition instead
+    * Don't nest inheritance too deep, 3 levels max (deeper means harder to understand)
+    * Never ever use inheritance in React
 * Don't write custom solutions, especially when you work in a big team, make everything reasonably close to documentation
 * Split your code onto functions wisely:
     * do not create functions that appear only once and contain one line of code
     * do not create functions that do multiple things
     * come up with meaningful names, starting from a verb
+* Try to make a folder structure of the project as shallow as possible
 
 ### Javascript
 
@@ -28,3 +32,4 @@
     * Don't mess up between `controlled` and `uncontrolled` components when doing forms, choose either one or another
     * Don't use `derived state`, use [reselect]() instead
     * Prefer `pure function` components to regular components
+    * Never ever use component inheritance

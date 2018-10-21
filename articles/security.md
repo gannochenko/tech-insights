@@ -54,3 +54,4 @@
     * Protect against DDOS
         [ratelimiter for redis](https://www.npmjs.com/package/ratelimiter)
 * Use [jwt](https://www.npmjs.com/package/jwt-express) for `API`, but don't forget about [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery#Prevention)
+    * [jwt.io](https://jwt.io/)
