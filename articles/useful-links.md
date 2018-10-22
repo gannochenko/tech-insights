@@ -9,6 +9,8 @@
     * [FontSquirrel](https://www.fontsquirrel.com/)
 * Free images
     * [Unsplash](https://unsplash.com/)
+    * [Pixels](https://www.pexels.com/)
+        * [Adorable cats at Pixels](https://www.pexels.com/search/cat/)
     * [HDRI heaven](https://hdrihaven.com/)
 * [Webpack generator](http://web.jakoblind.no/webpack-config/)
 * [Fellow Students :)](https://github.com/zero-to-mastery)
