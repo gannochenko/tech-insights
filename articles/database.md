@@ -1,5 +1,22 @@
 # Databases
 
+## Kinds
+
+* SQL
+    * MySQL
+    * Postgres
+    * Oracle
+* NoSQL
+    * Document
+        * MongoDB
+        * CouchDB
+    * Key-value
+        * Redis
+    * Wide-column
+        * Cassandra
+    * Graph
+        * neo4j
+
 ## Postgres
 * [How to create data schemas in Docker](https://stackoverflow.com/questions/26598738/how-to-create-user-database-in-script-for-docker-postgres)
 
