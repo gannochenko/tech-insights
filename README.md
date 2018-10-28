@@ -15,6 +15,7 @@
 * [Docker](https://github.com/awesome1888/tech-insights/blob/master/articles/docker.md)
 * [Trainers and katas](https://github.com/awesome1888/tech-insights/blob/master/articles/trainers.md)
 * [Redis](https://github.com/awesome1888/tech-insights/blob/master/articles/redis.md)
+* [Database](https://github.com/awesome1888/tech-insights/blob/master/articles/database.md)
 * [Read/Watch](https://github.com/awesome1888/tech-insights/blob/master/articles/read.md)
 * [How to stream video content](https://github.com/awesome1888/tech-insights/blob/master/articles/video-stream.md)
 * [Code style and ethics](https://github.com/awesome1888/tech-insights/blob/master/articles/codestyle-ethics.md)
