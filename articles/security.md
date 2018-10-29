@@ -53,5 +53,20 @@
             * `secure` - the cookie will be send only over `https` requests
     * Protect against DDOS
         [ratelimiter for redis](https://www.npmjs.com/package/ratelimiter)
-* Use [jwt](https://www.npmjs.com/package/jwt-express) for `API`, but don't forget about [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery#Prevention)
-    * [jwt.io](https://jwt.io/)
+* Authorization
+    * Cookie auth vs Header auth
+        * Cookies are vulnerable for CSRF
+        * Cookies are being sent automatically
+        * Header need to be specified explicitly with "Authorization" header
+        * Unlike cookies, you can use header (token) across different domains of you micro-service architecture, while cookies are applicable only within a single domain
+        * You can have header (token) based auth on your mobile platform as well
+    * [Sessions vs Tokens](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide)
+        * Session is stored server-side, you will need to have a session id passed by the client along each request (either via cookie or header)
+        * Token is an encrypted session that is stored client-side, so the server stays stateless, which is passed along each request in headers
+        * Tokens are singed, not encrypted
+        * JWT downsides: size, cache (here [more](https://scotch.io/bar-talk/why-jwts-suck-as-session-tokens))
+    * [Do I need CSRF token if I use JWT?](https://security.stackexchange.com/questions/170388/do-i-need-csrf-token-if-im-using-bearer-jwt) - NO, as long as you use header, not cookie
+    * Use [jwt](https://jwt.io/)
+        * [jwt for express](https://www.npmjs.com/package/jwt-express)
+    * Don't forget about [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery#Prevention) if you use cookies
+

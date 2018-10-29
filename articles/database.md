@@ -6,6 +6,8 @@
     * MySQL
     * Postgres
     * Oracle
+    * SQLite
+    * SQL Server
 * NoSQL
     * Document
         * MongoDB
@@ -19,6 +21,10 @@
 
 ## Postgres
 * [How to create data schemas in Docker](https://stackoverflow.com/questions/26598738/how-to-create-user-database-in-script-for-docker-postgres)
+
+## Redis
+
+* [Redis demo online](https://try.redis.io/)
 
 ## Database GUI
 * MongoDB
