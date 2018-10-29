@@ -23,6 +23,12 @@
     * [Glamorous](https://glamorous.rocks)
     * [MaterialUI](https://material-ui.com/)
     * [SemanticUI](http://react.semantic-ui.com/)
+    * [Reactstrap](https://reactstrap.github.io) - the react binding for bootstrap
+    * [Foundation](https://foundation.zurb.com/)
+    * [Bootstrap](https://getbootstrap.com/)
+    * [Bootflat](http://bootflat.github.io/) - a flat version of Bootstrap 3, seems to be not maintained any longer
+    * [Spinkit](http://tobiasahlin.com/spinkit/) - a kit of spinners for react
+    * [CSS-loaders](https://github.com/lukehaas/css-loaders) - another kit of spinners
 * Development
     * [Why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
 * Deployment
