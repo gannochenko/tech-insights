@@ -19,6 +19,7 @@
     * [Lodash](https://www.npmjs.com/search?q=lodash)
         * You can import `lodash` methods as separated `npm` modules
     * Underscore
+    * [Latinize](https://www.npmjs.com/package/latinize) - turn any text into a latin equivalent
 * Styling
     * [Glamorous](https://glamorous.rocks)
     * [MaterialUI](https://material-ui.com/)
