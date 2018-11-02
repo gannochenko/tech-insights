@@ -4,6 +4,22 @@
     `npm list <dependency>`<br />
     [See more here](https://stackoverflow.com/questions/25997519/how-to-view-the-dependency-tree-of-a-given-npm-module)
 
+* How to update all the top level packages
+    `npm update --save-dev`
+
+* How to read `semver`<br />
+    Version consists of the following parts: `MAJOR`.`MINOR`.`PATCH`
+    * `MAJOR` - version for when there are incompatible API changes
+    * `MINOR` - version for when functionality is added in a backwards compatible manner
+    * `PATCH` - version for when backwards compatible bug fixes are done
+
+    Examples of constraints:
+    * To Allow Patch Releases: 1.0 or 1.0.x or ~1.0.4
+    * To Allow Minor Releases: 1 or 1.x or ^1.0.4
+    * To Allow Major Releases: * or x
+
+    [See more](https://www.hostingadvice.com/how-to/update-npm-packages/)
+
 ## Libraries
 
 * React
