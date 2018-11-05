@@ -41,3 +41,4 @@ DO NOT use premature optimization, but how we can optimize the website:
     * [Optimize your React](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/react-optimization.md)
     * Do code tree shaking: example: `underscore-mixin` sucks, because it imports all the fucking `unserscore` library. Switch to `lodash`?
     * Avoid memory leaks
+    * Use [code splitting](https://tylermcginnis.com/react-router-code-splitting/)
