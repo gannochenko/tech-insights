@@ -23,6 +23,7 @@
 * Unicode and characters
     * [Unicode converter](https://r12a.github.io/app-conversion/)
     * [HTML entities](https://dev.w3.org/html5/html-author/charref)
+    * [Emoji](https://emojipedia.org/)
 * Time converters
     * [Epoch converter](https://www.epochconverter.com/)
 * To check your platform for vulnerabilities (for money)
