@@ -88,3 +88,5 @@
     * [ratelimiter](https://www.npmjs.com/package/ratelimiter)
 * Maps and geodata
     * [Cesium.js](https://cesiumjs.org)
+* Express middleware
+    * [GZIP](https://www.npmjs.com/package/compression)

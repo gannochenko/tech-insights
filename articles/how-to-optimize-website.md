@@ -15,12 +15,27 @@ DO NOT use premature optimization, but how we can optimize the website:
     * Use resource CDN
         * [imgix &#10084;](https://www.imgix.com/)
         * [filestack](https://www.filestack.com/)
+        * [cloudflare](https://www.cloudflare.com/)
+        * [ms azure](https://azure.microsoft.com/en-us/)
     * Remove metadata (Exif) from image files with [verexif.com](http://www.verexif.com/)
     * Use HTTP cache
         * [Varnish](https://varnish-cache.org)
             * [Dockerized varnish](https://info.varnish-software.com/blog/varnish-docker)
         * [Squid](http://www.squid-cache.org/)
-* Optimize backend work,
+* Optimize backend work
+    * Use [GZIP](https://www.npmjs.com/package/compression) or Brotli
+    * Scale microservices
+    * Optimize database
+        * Choose a proper database type that is suitable for the specific task to cover
+        * Identify ineffective queries
+            * Optimize selects and joins
+            * Create indexes
+            * Use data de-normalization
+        * Increase memory
+        * Add vertical scaling (i.e. cache something in Redis or Memcached)
+        * Add horizontal scaling (several synchronized instances of the database behind the load balancer)
+        * Use horizontal partitioning (split one table onto several according to some criteria to increase index side)
+        * Use sharding (split data between several database instances according to some criteria, in order to be able to address these servers independently)
 * Optimize frontend work
     * Analyze the critical render path (DOM -> CSSOM (DOMContentLoaded) -> RenderTree -> Layout -> Paint (Load))
     * Get CSS to the browser as soon as possible
@@ -42,3 +57,7 @@ DO NOT use premature optimization, but how we can optimize the website:
     * Do code tree shaking: example: `underscore-mixin` sucks, because it imports all the fucking `unserscore` library. Switch to `lodash`?
     * Avoid memory leaks
     * Use [code splitting](https://tylermcginnis.com/react-router-code-splitting/)
+    * Use http headers in order to cache
+    * Use IndexedDB
+    * Use LocalStorage
+    * Use ServiceWorker to make use of static resource caching
