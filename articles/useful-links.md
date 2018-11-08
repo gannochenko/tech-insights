@@ -28,5 +28,14 @@
     * [Epoch converter](https://www.epochconverter.com/)
 * To check your platform for vulnerabilities (for money)
     * [Hacker one](https://www.hackerone.com/)
-* To do SSR
+* To make SSR
     * [Prerender](https://prerender.io/)
+* Form service
+    * [Formstack](https://www.formstack.com)
+    * [Typeform](https://www.typeform.com/)
+    * [GoogleForms](https://www.google.com/forms/about/)
+* Analytics
+    * [Mixpanel](https://mixpanel.com)
+    * [Google Analytics](https://analytics.google.com/analytics/web/#/)
+* A/B testing
+    * [VWO](https://vwo.com/)
