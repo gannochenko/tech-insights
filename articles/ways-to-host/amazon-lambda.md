@@ -14,3 +14,6 @@ sls deploy
 sls invoke --function FUNCTION_NAME
 sls invoke local --function FUNCTION_NAME
 ~~~~
+
+Q: What if I can not see in the console the function I have just deployed?
+A: Go and switch the server you are currently on, for example, from us-east-2 (Ohio) to us-east-1 (N. Virginia)

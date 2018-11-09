@@ -20,3 +20,4 @@
 * [Read/Watch](https://github.com/awesome1888/tech-insights/blob/master/articles/read.md)
 * [How to stream video content](https://github.com/awesome1888/tech-insights/blob/master/articles/video-stream.md)
 * [Code style and ethics](https://github.com/awesome1888/tech-insights/blob/master/articles/codestyle-ethics.md)
+* [IDE](https://github.com/awesome1888/tech-insights/blob/master/articles/ide.md)
