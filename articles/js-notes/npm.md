@@ -90,3 +90,5 @@
     * [Cesium.js](https://cesiumjs.org)
 * Express middleware
     * [GZIP](https://www.npmjs.com/package/compression)
+* UI
+    * [Swipe detection](https://www.npmjs.com/package/react-swipeable)

@@ -18,10 +18,6 @@ DO NOT use premature optimization, but how we can optimize the website:
         * [cloudflare](https://www.cloudflare.com/)
         * [ms azure](https://azure.microsoft.com/en-us/)
     * Remove metadata (Exif) from image files with [verexif.com](http://www.verexif.com/)
-    * Use HTTP cache
-        * [Varnish](https://varnish-cache.org)
-            * [Dockerized varnish](https://info.varnish-software.com/blog/varnish-docker)
-        * [Squid](http://www.squid-cache.org/)
 * Optimize backend work
     * Use [GZIP](https://www.npmjs.com/package/compression) or Brotli
     * Scale microservices
@@ -36,6 +32,14 @@ DO NOT use premature optimization, but how we can optimize the website:
         * Add horizontal scaling (several synchronized instances of the database behind the load balancer)
         * Use horizontal partitioning (split one table onto several according to some criteria to increase index side)
         * Use sharding (split data between several database instances according to some criteria, in order to be able to address these servers independently)
+    * Use [HTTP cache headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
+        * ETag is a hash of the file
+    * Use HTTP cache
+        * [Varnish](https://varnish-cache.org)
+            * [Dockerized varnish](https://info.varnish-software.com/blog/varnish-docker)
+        * [Squid](http://www.squid-cache.org/)
+    * Use load balancer
+    * Use lambda functions
 * Optimize frontend work
     * Analyze the critical render path (DOM -> CSSOM (DOMContentLoaded) -> RenderTree -> Layout -> Paint (Load))
     * Get CSS to the browser as soon as possible
