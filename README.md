@@ -22,3 +22,4 @@
 * [Code style and ethics](https://github.com/awesome1888/tech-insights/blob/master/articles/codestyle-ethics.md)
 * [IDE](https://github.com/awesome1888/tech-insights/blob/master/articles/ide.md)
 * [Nginx](https://github.com/awesome1888/tech-insights/blob/master/articles/nginx.md)
+* [Continious Integration](https://github.com/awesome1888/tech-insights/blob/master/articles/ci.md)
