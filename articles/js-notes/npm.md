@@ -92,3 +92,5 @@
     * [GZIP](https://www.npmjs.com/package/compression)
 * UI
     * [Swipe detection](https://www.npmjs.com/package/react-swipeable)
+* Website stress test
+    * [loadtest](https://www.npmjs.com/package/loadtest)

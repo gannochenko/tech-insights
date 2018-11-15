@@ -3,7 +3,7 @@
 * [How does SSH work](https://github.com/awesome1888/tech-insights/blob/master/articles/how-does-ssh-work.md)
 * [How to optimize a website](https://github.com/awesome1888/tech-insights/blob/master/articles/how-to-optimize-website.md)
 * [Useful links](https://github.com/awesome1888/tech-insights/blob/master/articles/useful-links.md)
-* [How to stress test a website]()
+* [How to stress test a website](https://github.com/awesome1888/tech-insights/blob/master/articles/stress-test.md)
 * [JS notes](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/index.md)
 * [CSS notes](https://github.com/awesome1888/tech-insights/blob/master/articles/css-notes/index.md)
 * [PWA](https://github.com/awesome1888/tech-insights/blob/master/articles/pwa.md)
@@ -21,3 +21,4 @@
 * [How to stream video content](https://github.com/awesome1888/tech-insights/blob/master/articles/video-stream.md)
 * [Code style and ethics](https://github.com/awesome1888/tech-insights/blob/master/articles/codestyle-ethics.md)
 * [IDE](https://github.com/awesome1888/tech-insights/blob/master/articles/ide.md)
+* [Nginx](https://github.com/awesome1888/tech-insights/blob/master/articles/nginx.md)
