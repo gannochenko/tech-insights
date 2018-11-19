@@ -14,3 +14,4 @@
 * [Express Security](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/express-security.md)
 * [How prototype inheritance work](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/how-protoype-inheritance-work.md)
 * [Dev tools](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/dev-tools.md)
+* [Node notes](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/node.md)
