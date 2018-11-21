@@ -39,3 +39,5 @@
     * [Google Analytics](https://analytics.google.com/analytics/web/#/)
 * A/B testing
     * [VWO](https://vwo.com/)
+* Regexp debugger
+    * [Regex101](https://regex101.com/)

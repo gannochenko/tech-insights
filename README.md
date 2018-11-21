@@ -23,3 +23,4 @@
 * [IDE](https://github.com/awesome1888/tech-insights/blob/master/articles/ide.md)
 * [Nginx](https://github.com/awesome1888/tech-insights/blob/master/articles/nginx.md)
 * [Continious Integration](https://github.com/awesome1888/tech-insights/blob/master/articles/ci.md)
+* [GraphQL](https://github.com/awesome1888/tech-insights/blob/master/articles/graphql.md)

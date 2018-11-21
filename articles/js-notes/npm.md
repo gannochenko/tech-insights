@@ -56,8 +56,9 @@
 * Mockers
     * API
         * [json-server](https://github.com/typicode/json-server)
-* Server emulators
-    * [nodemon](https://www.npmjs.com/package/nodemon)
+* Server emulators & re-spawners
+    * [nodemon](https://www.npmjs.com/package/nodemon) - had problems with watching non-js files
+    * [supervisor](https://www.npmjs.com/package/supervisor)
     * [webpack dev server](https://www.npmjs.com/package/webpack-dev-server)
 * Data visualization
     * [bizcharts](https://www.npmjs.com/package/bizcharts)
