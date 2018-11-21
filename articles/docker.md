@@ -36,3 +36,8 @@ How to stop continiously restarting container
 ~~~~
 docker update --restart=no container-id
 ~~~~
+
+How to prune the entire system
+~~~~
+docker system prune -a
+~~~~
