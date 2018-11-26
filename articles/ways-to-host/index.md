@@ -18,6 +18,8 @@
         * [Cloudflare](https://www.cloudflare.com)
         * Microsoft Azure
         * Google Cloud Platform
+    * Other
+        * [Netlify](https://www.netlify.com) - connects to your github repo and allows do deploy with CI/CD
 * CDN hosting
     * [imgix &#10084;](https://www.imgix.com/)
     * [filestack](https://www.filestack.com/)

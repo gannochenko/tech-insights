@@ -1,11 +1,26 @@
 # NPM
 
 * How to view dependences<br />
-    `npm list <dependency>`<br />
-    [See more here](https://stackoverflow.com/questions/25997519/how-to-view-the-dependency-tree-of-a-given-npm-module)
+    * All dependency tree: `npm list`
+    * Top-level packages: `npm list --depth=0`
+    * Specific package: `npm list <package-name>`
+    * [See more here](https://stackoverflow.com/questions/25997519/how-to-view-the-dependency-tree-of-a-given-npm-module)
 
-* How to update all the top level packages
-    `npm update --save-dev`
+* How to view package dependencies file: `npm view <package-name> dependencies`
+
+* How to view all package versions: `npm view <package-name> versions`
+
+* How to update all the top level packages to their minor versions: `npm update`
+
+* How to update all the packages to the latest versions regardless the SemVer: `ncu -u; npm install` ([ncu](https://www.npmjs.com/package/npm-check-updates))
+
+* How to install specific versions of a package:
+    * `npm install <package-name>@1.2.3`
+    * `npm install <package-name>@<tag-name>`
+
+* How to see what packages have newer versions to install: `npm outdated`
+
+* How to up package version number before publishing: `npm version <major|minor|patch>`
 
 * How to read `semver`<br />
     Version consists of the following parts: `MAJOR`.`MINOR`.`PATCH`
