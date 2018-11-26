@@ -22,6 +22,7 @@
     * do not create functions that appear only once and contain one line of code
     * do not create functions that do multiple things
     * come up with meaningful names, starting from a verb
+* In general, any nesting increases overal complexity, unless it is required by the data structures like trees, you need to make structures as flat as possible
 * Try to make a folder structure of the project as shallow as possible
 
 ### Javascript
