@@ -38,7 +38,7 @@
 ## Libraries
 
 * React
-    * [immutable js](http://facebook.github.io/immutable-js/)
+    * [immutable-js](http://facebook.github.io/immutable-js/)
 * Redux
     * [redux-thunk](https://www.npmjs.com/package/redux-thunk)
     * [redux-promise](https://www.npmjs.com/package/redux-promise)
@@ -107,6 +107,9 @@
 * Express middleware
     * [GZIP](https://www.npmjs.com/package/compression)
 * UI
-    * [Swipe detection](https://www.npmjs.com/package/react-swipeable)
+    * [react-swipeable](https://www.npmjs.com/package/react-swipeable) - nice swipe detector
+    * [formik](https://www.npmjs.com/package/formik) - nice form plugin
 * Website stress test
     * [loadtest](https://www.npmjs.com/package/loadtest)
+* Util
+    * [yup](https://www.npmjs.com/package/yup) - object validator
