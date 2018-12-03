@@ -68,6 +68,8 @@
 * Testing
     * [jest](https://www.npmjs.com/package/jest)
     * [enzyme](https://github.com/airbnb/enzyme)
+* Debugging
+    * [debug](https://www.npmjs.com/package/debug) - just as replacement for 'console.log()' that can be switchable off
 * Mockers
     * API
         * [json-server](https://github.com/typicode/json-server)
@@ -114,3 +116,9 @@
 * Object validator
     * [yup](https://www.npmjs.com/package/yup) - object validator
     * [joi](https://www.npmjs.com/package/joi) - object validator
+* Config
+    * [rc](https://www.npmjs.com/package/rc)
+    * [config](https://www.npmjs.com/package/config)
+* Template engines
+    * [pug](https://www.npmjs.com/package/pug)
+    * [ejs](https://www.npmjs.com/package/ejs)
