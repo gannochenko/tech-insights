@@ -15,5 +15,6 @@
 * [How prototype inheritance work](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/how-protoype-inheritance-work.md)
 * [Dev tools](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/dev-tools.md)
 * [Node notes](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/node.md)
+* [React notes](https://github.com/awesome1888/tech-insights/blob/master/articles/js-notes/react.md)
 
 According to the naming convention, all classes should start from the Capital letter, all variables - with literal, and constants should be uppercase snake-case.
