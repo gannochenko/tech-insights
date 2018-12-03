@@ -111,5 +111,6 @@
     * [formik](https://www.npmjs.com/package/formik) - nice form plugin
 * Website stress test
     * [loadtest](https://www.npmjs.com/package/loadtest)
-* Util
+* Object validator
     * [yup](https://www.npmjs.com/package/yup) - object validator
+    * [joi](https://www.npmjs.com/package/joi) - object validator
