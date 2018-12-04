@@ -29,7 +29,8 @@
 ## Database GUI
 * MongoDB
     * [Studio 3T](https://studio3t.com/download/) - free for non-commercial use
-    * [NoSQL Booster](https://nosqlbooster.com/) - on free version you cant export collections
+    * [NoSQL Booster](https://nosqlbooster.com/) - in free version you cant export collections
+    * [Mongo Compass](https://www.mongodb.com/download-center/compass?jmp=hero)
 * Postgres
     * [PSequal](http://www.psequel.com/) - the project is nice but seems to be dead
 * All SQL
