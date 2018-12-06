@@ -15,4 +15,4 @@ font-display: swap;
 
 
 * Architecting your CSS files:
-- ITCSS: https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+    - ITCSS: https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
