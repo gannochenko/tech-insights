@@ -33,9 +33,12 @@
 
 ## Mocking API
 
-* [json-server](https://github.com/typicode/json-server)
-* [swapi](https://swapi.co)
-* [json placeholder](https://jsonplaceholder.typicode.com/)
+* Local
+    * [json-server](https://github.com/typicode/json-server)
+* SAAS
+    * [swapi](https://swapi.co)
+    * [dogapi](https://dog.ceo/dog-api/)
+    * [json placeholder](https://jsonplaceholder.typicode.com/)
 
 ## React testing
 

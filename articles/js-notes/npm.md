@@ -51,7 +51,7 @@
         * You can import `lodash` methods as separated `npm` modules
     * Underscore
     * [Latinize](https://www.npmjs.com/package/latinize) - turn any text into a latin equivalent
-* Styling
+* Styling and UI kit
     * [Glamorous](https://glamorous.rocks)
     * [MaterialUI](https://material-ui.com/)
     * [SemanticUI](http://react.semantic-ui.com/)
@@ -61,6 +61,7 @@
     * [Bootflat](http://bootflat.github.io/) - a flat version of Bootstrap 3, seems to be not maintained any longer
     * [Spinkit](http://tobiasahlin.com/spinkit/) - a kit of spinners for react
     * [CSS-loaders](https://github.com/lukehaas/css-loaders) - another kit of spinners
+    * [CircuitUI](https://circuit.sumup.com)
 * Development
     * [Why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
 * Deployment
@@ -83,9 +84,12 @@
     * [isomorphic unfetch](https://www.npmjs.com/package/isomorphic-unfetch)
     * [axios](https://www.npmjs.com/package/axios)
     * [superagent](https://www.npmjs.com/package/superagent)
-* ORM / ODM
-    * [knex](https://knexjs.org/)
-    * [mongoose](https://mongoosejs.com/)
+* Database
+    * ORM / ODM
+        * [knex](https://knexjs.org/)
+        * [mongoose](https://mongoosejs.com/)
+    * Mongo
+        * [fawn](https://www.npmjs.com/package/fawn) - to make transactions
 * Security
     * [csurf]()
     * [cask]()
@@ -114,11 +118,13 @@
 * Website stress test
     * [loadtest](https://www.npmjs.com/package/loadtest)
 * Object validator
-    * [yup](https://www.npmjs.com/package/yup) - object validator
-    * [joi](https://www.npmjs.com/package/joi) - object validator
+    * [yup](https://www.npmjs.com/package/yup)
+    * [joi](https://www.npmjs.com/package/joi)
 * Config
     * [rc](https://www.npmjs.com/package/rc)
     * [config](https://www.npmjs.com/package/config)
 * Template engines
     * [pug](https://www.npmjs.com/package/pug)
     * [ejs](https://www.npmjs.com/package/ejs)
+* DOM
+    * [delegate](https://www.npmjs.com/package/delegate)

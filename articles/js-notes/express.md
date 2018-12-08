@@ -24,7 +24,7 @@ module.exports = (req, res, next) => {
     console.dir('hey this is middleware speaking');
     next();
 };
-~~~ 
+~~~
 
 Generic middlewares:
 * `express.json()` - if content type is `application/json` and the body looks like `JSON`, the middleware will parse it and put the result to `req.body`
@@ -43,3 +43,15 @@ Promises:
     * `Promise.all()` to wait for all
     * `Promise.race()` to wait for the first one
 
+## Mongo
+
+* Update
+    * `save`
+    * `update`
+    * `updateMany`
+    * Two ways of updating
+        * `.update()` by filter
+        * get, check data consistency and then `.save()`
+* Delete
+    * `findByIdAndRemove`
+    * `deleteMany`
