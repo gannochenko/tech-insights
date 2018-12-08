@@ -14,7 +14,8 @@
 ### General
 
 * OOP and inheritance
-    * Use class inheritance only when needed, otherwise use composition instead
+    * Use class inheritance as little as possible (only when really needed and useful)
+    * Use class composition as much as possible
     * Don't nest inheritance too deep, 3 levels max (deeper means harder to understand)
     * Never ever use inheritance in React
 * Don't write custom solutions, especially when you work in a big team, make everything reasonably close to documentation
