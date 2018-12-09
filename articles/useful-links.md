@@ -24,6 +24,7 @@
     * [Unicode converter](https://r12a.github.io/app-conversion/)
     * [HTML entities](https://dev.w3.org/html5/html-author/charref)
     * [Emoji](https://emojipedia.org/)
+    * [ASCII art](https://www.asciiart.eu/)
 * Time converters
     * [Epoch converter](https://www.epochconverter.com/)
 * To check your platform for vulnerabilities (for money)
