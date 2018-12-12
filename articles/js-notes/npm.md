@@ -80,10 +80,15 @@
     * [webpack dev server](https://www.npmjs.com/package/webpack-dev-server)
 * Data visualization
     * [bizcharts](https://www.npmjs.com/package/bizcharts)
-* REST callers
+* REST
     * [isomorphic unfetch](https://www.npmjs.com/package/isomorphic-unfetch)
     * [axios](https://www.npmjs.com/package/axios)
     * [superagent](https://www.npmjs.com/package/superagent)
+* GraphQL
+    * [graphql](https://www.npmjs.com/package/graphql) - graphql javascript implementation
+    * [graphql-tag](https://www.npmjs.com/package/graphql-tag) - graphql query parser and webpack loader
+    * [apollo-server-lambda](https://www.npmjs.com/package/apollo-server-lambda) - apollo server bound on serverless lambda
+    * [merge-graphql-schemas](https://www.npmjs.com/package/merge-graphql-schemas) - an util to merge modularized queries and resolvers
 * Database
     * ORM / ODM
         * [knex](https://knexjs.org/)
@@ -117,9 +122,15 @@
     * [formik](https://www.npmjs.com/package/formik) - nice form plugin
 * Website stress test
     * [loadtest](https://www.npmjs.com/package/loadtest)
-* Object validator
-    * [yup](https://www.npmjs.com/package/yup)
-    * [joi](https://www.npmjs.com/package/joi)
+* Objects and data structures
+    * Processors
+        * [traverse](https://www.npmjs.com/package/traverse) - traverse and transform an object
+    * Validators
+        * [yup](https://www.npmjs.com/package/yup)
+        * [joi](https://www.npmjs.com/package/joi)
+            * [joi-objectid](https://www.npmjs.com/package/joi-objectid) - ObjectId support for Joi
+    * Pretty output
+        * [stringify-object](https://www.npmjs.com/package/stringify-object)
 * Config
     * [rc](https://www.npmjs.com/package/rc)
     * [config](https://www.npmjs.com/package/config)
@@ -128,3 +139,7 @@
     * [ejs](https://www.npmjs.com/package/ejs)
 * DOM
     * [delegate](https://www.npmjs.com/package/delegate)
+* Serverless
+    * [serverless](https://www.npmjs.com/package/serverless) - the framework
+    * [serverless-offline](https://www.npmjs.com/package/serverless-offline) - AWS lambda and gateway emulator
+    * [serverless-webpack](https://www.npmjs.com/package/serverless-webpack) - plugin for webpack

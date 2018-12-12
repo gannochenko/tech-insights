@@ -43,15 +43,7 @@ Promises:
     * `Promise.all()` to wait for all
     * `Promise.race()` to wait for the first one
 
-## Mongo
+## Tips
 
-* Update
-    * `save`
-    * `update`
-    * `updateMany`
-    * Two ways of updating
-        * `.update()` by filter
-        * get, check data consistency and then `.save()`
-* Delete
-    * `findByIdAndRemove`
-    * `deleteMany`
+* It could be a nice approach to have API-level validation of parameters along with the database-level mongoose validation
+* For string fields it might be good to put `minLength` and `maxLength` constraints like a general approach
