@@ -37,8 +37,8 @@
 
 ## Libraries
 
-* React
-    * [immutable-js](http://facebook.github.io/immutable-js/)
+* Markdown
+    * [react-markdown](https://www.npmjs.com/package/react-markdown) - render markdown as a react component
 * Redux
     * [redux-thunk](https://www.npmjs.com/package/redux-thunk)
     * [redux-promise](https://www.npmjs.com/package/redux-promise)
@@ -100,6 +100,8 @@
     * [cask]()
     * [helmet](https://www.npmjs.com/package/helmet)
     * [cors](https://www.npmjs.com/package/cors)
+    * [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+    * [bcrypt](https://www.npmjs.com/package/bcrypt)
 * Security audit
     * [snyk](https://www.npmjs.com/package/snyk)
 * Logging
@@ -131,6 +133,7 @@
             * [joi-objectid](https://www.npmjs.com/package/joi-objectid) - ObjectId support for Joi
     * Pretty output
         * [stringify-object](https://www.npmjs.com/package/stringify-object)
+    * [immutable-js](http://facebook.github.io/immutable-js/)
 * Config
     * [rc](https://www.npmjs.com/package/rc)
     * [config](https://www.npmjs.com/package/config)
@@ -143,3 +146,11 @@
     * [serverless](https://www.npmjs.com/package/serverless) - the framework
     * [serverless-offline](https://www.npmjs.com/package/serverless-offline) - AWS lambda and gateway emulator
     * [serverless-webpack](https://www.npmjs.com/package/serverless-webpack) - plugin for webpack
+* CLI
+    * [chromafi](https://www.npmjs.com/package/chromafi) - output colored snippets in almost any language
+    * [colors](https://www.npmjs.com/package/colors) - output colored text
+    * [shelljs](https://www.npmjs.com/package/shelljs) - execute shell commands in a javascript file
+    * [prompts](https://www.npmjs.com/package/prompts) - a library for asking questions
+    * [argv](https://www.npmjs.com/package/argv) - parse command-line options
+* Syntax highlighter (in-browser)
+    * [highlight.js](https://www.npmjs.com/package/highlight.js)

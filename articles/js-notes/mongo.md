@@ -29,3 +29,8 @@ Bytes:
 Advantages of that kind of id over and auto-increment field:
 * it is highly scalable
 * you can have several instances and you don't need to synchronize their autoincrement field
+
+## Mongoose
+
+* We can use custom and async validation in schemas
+* We can make custom methods for the mongoose models
