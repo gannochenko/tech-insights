@@ -149,8 +149,11 @@
 * CLI
     * [chromafi](https://www.npmjs.com/package/chromafi) - output colored snippets in almost any language
     * [colors](https://www.npmjs.com/package/colors) - output colored text
+    * [chalk](https://www.npmjs.com/package/chalk) - output colored text (alternative library)
     * [shelljs](https://www.npmjs.com/package/shelljs) - execute shell commands in a javascript file
     * [prompts](https://www.npmjs.com/package/prompts) - a library for asking questions
     * [argv](https://www.npmjs.com/package/argv) - parse command-line options
 * Syntax highlighter (in-browser)
     * [highlight.js](https://www.npmjs.com/package/highlight.js)
+* Util
+    * [tiny-emitter](https://www.npmjs.com/package/tiny-emitter)
