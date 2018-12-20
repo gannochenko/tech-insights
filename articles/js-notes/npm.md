@@ -67,8 +67,10 @@
 * Deployment
     * [gh-pages](https://www.npmjs.com/package/gh-pages)
 * Testing
-    * [jest](https://www.npmjs.com/package/jest)
-    * [enzyme](https://github.com/airbnb/enzyme)
+    * [jest](https://www.npmjs.com/package/jest) - unit testing framework
+    * [enzyme](https://github.com/airbnb/enzyme) - test framework for react components
+    * [cypress](https://www.npmjs.com/package/cypress) - end-to-end testing tool
+    * [react-testing-library](https://www.npmjs.com/package/react-testing-library) - test framework for react components
 * Debugging
     * [debug](https://www.npmjs.com/package/debug) - just as replacement for 'console.log()' that can be switchable off
 * Mockers
@@ -157,3 +159,11 @@
     * [highlight.js](https://www.npmjs.com/package/highlight.js)
 * Util
     * [tiny-emitter](https://www.npmjs.com/package/tiny-emitter)
+* Parsers
+    * [cheerio](https://www.npmjs.com/package/cheerio) - HTML parser
+    * [esprima](https://www.npmjs.com/package/esprima) - JS AST tree generator
+* Browser emulators
+    * [puppeteer](https://www.npmjs.com/package/puppeteer) - a Chrome emulator
+* Documentation generators
+    * [jsdoc](https://www.npmjs.com/package/jsdoc) - documentation generator for JavaScript
+    * [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - documentation generator for UI made with React
