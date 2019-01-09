@@ -32,6 +32,11 @@ How to stop the container
 docker stop container-id
 ~~~~
 
+How to stop all containers
+~~~~
+docker stop $(docker ps -q)
+~~~~
+
 How to stop continiously restarting container
 ~~~~
 docker update --restart=no container-id
