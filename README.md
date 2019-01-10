@@ -26,3 +26,6 @@
 * [GraphQL](https://github.com/awesome1888/tech-insights/blob/master/articles/graphql.md)
 * [Ways to style](https://github.com/awesome1888/tech-insights/blob/master/articles/ways-to-style.md)
 * [AWS](https://github.com/awesome1888/tech-insights/blob/master/articles/aws.md)
+
+## Different
+* [SSH keys with multiple github accounts](https://medium.com/@trionkidnapper/ssh-keys-with-multiple-github-accounts-c67db56f191e)
