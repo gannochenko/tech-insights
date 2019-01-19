@@ -13,9 +13,9 @@ DO NOT use premature optimization, but how we can optimize the website:
     * For different screen sizes provide background-image of different sizes, by using media queries
         * Use [srcset](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) to define different `<img>` tag src attribute values
     * Use resource CDN
-        * [imgix &#10084;](https://www.imgix.com/)
+        * [imgix &#10084;](https://www.imgix.com/) - HOST ONLY IMAGES
         * [filestack](https://www.filestack.com/)
-        * [cloudflare](https://www.cloudflare.com/)
+        * [cloudflare](https://www.cloudflare.com/) - FREE PLAN!
         * [ms azure](https://azure.microsoft.com/en-us/)
     * Remove metadata (Exif) from image files with [verexif.com](http://www.verexif.com/)
 * Optimize backend work

@@ -38,6 +38,7 @@
 * Analytics
     * [Mixpanel](https://mixpanel.com)
     * [Google Analytics](https://analytics.google.com/analytics/web/#/)
+    * [Adjust](https://www.adjust.com/)
 * A/B testing
     * [VWO](https://vwo.com/)
 * Regexp debugger
@@ -48,3 +49,5 @@
     * [headline-analyzer](https://coschedule.com/headline-analyzer)
     * [hemingwayapp](http://www.hemingwayapp.com/)
     * [grammarly](https://app.grammarly.com)
+* Other
+    * [json-schema](http://json-schema.org)

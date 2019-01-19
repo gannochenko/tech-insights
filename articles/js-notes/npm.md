@@ -91,6 +91,8 @@
     * [graphql-tag](https://www.npmjs.com/package/graphql-tag) - graphql query parser and webpack loader
     * [apollo-server-lambda](https://www.npmjs.com/package/apollo-server-lambda) - apollo server bound on serverless lambda
     * [merge-graphql-schemas](https://www.npmjs.com/package/merge-graphql-schemas) - an util to merge modularized queries and resolvers
+* Serverless
+    * [aws-serverless-express](https://www.npmjs.com/package/aws-serverless-express) - pack your express into lambda and run on AWS provider
 * Database
     * ORM / ODM
         * [knex](https://knexjs.org/)
