@@ -10,19 +10,15 @@
         * Vultr
     * Cloud
         * [AWS](https://aws.amazon.com/)
-            * EC2 - baremetal
-            * S3 - object storage (image, doc, any structure, ...), up to 5gb
-            * [Lambda]((https://github.com/awesome1888/tech-insights/blob/master/articles/ways-to-host/amazon-lambda.md)) - function call with built-in scalability
-            * CloudFront - CDN
-            * DynamoDB - no-sql database with built-in scalability
-        * [Cloudflare](https://www.cloudflare.com)
         * Microsoft Azure
         * Google Cloud Platform
     * Other
         * [Netlify](https://www.netlify.com) - connects to your github repo and allows do deploy with CI/CD
+        * [Surge.sh](https://surge.sh/)
 * CDN hosting
     * [imgix &#10084;](https://www.imgix.com/)
     * [filestack](https://www.filestack.com/)
+    * [Cloudflare](https://www.cloudflare.com)
 * CMS as a service
     * [Contentful](https://www.contentful.com/) - a headless CMS SAAS
 

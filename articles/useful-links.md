@@ -45,6 +45,7 @@
     * [Regex101](https://regex101.com/)
 * Online diagram drawer
     * [Draw.IO](https://www.draw.io/)
+    * [Sequencediagram.org](http://sequencediagram.org/) - UML Sequence diagram generator
 * Grammar and style checkers
     * [headline-analyzer](https://coschedule.com/headline-analyzer)
     * [hemingwayapp](http://www.hemingwayapp.com/)

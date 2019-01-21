@@ -39,6 +39,8 @@
     * [swapi](https://swapi.co)
     * [dogapi](https://dog.ceo/dog-api/)
     * [json placeholder](https://jsonplaceholder.typicode.com/)
+* A list of free APIs
+    * [GraphQL](https://github.com/APIs-guru/graphql-apis)
 
 ## React testing
 
