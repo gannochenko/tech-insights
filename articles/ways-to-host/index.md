@@ -21,4 +21,4 @@
     * [Cloudflare](https://www.cloudflare.com)
 * CMS as a service
     * [Contentful](https://www.contentful.com/) - a headless CMS SAAS
-
+    * [GraphCMS](https://graphcms.com) - a headless GraphQL CMS
