@@ -50,5 +50,6 @@
     * [headline-analyzer](https://coschedule.com/headline-analyzer)
     * [hemingwayapp](http://www.hemingwayapp.com/)
     * [grammarly](https://app.grammarly.com)
+    * [context.reverso.net](https://context.reverso.net) - to check phrases for usability
 * Other
     * [json-schema](http://json-schema.org)
