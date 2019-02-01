@@ -126,6 +126,7 @@
 * UI
     * [react-swipeable](https://www.npmjs.com/package/react-swipeable) - nice swipe detector
     * [formik](https://www.npmjs.com/package/formik) - nice form plugin
+    * [react-svg](https://www.npmjs.com/package/react-svg)
 * Website stress test
     * [loadtest](https://www.npmjs.com/package/loadtest)
 * Objects and data structures
@@ -169,3 +170,5 @@
 * Documentation generators
     * [jsdoc](https://www.npmjs.com/package/jsdoc) - documentation generator for JavaScript
     * [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - documentation generator for UI made with React
+* Services
+    * [pusher](https://www.npmjs.com/package/pusher) - a publish/subscribe service

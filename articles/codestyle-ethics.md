@@ -25,6 +25,7 @@
     * come up with meaningful names, starting from a verb
 * In general, any nesting increases overal complexity, unless it is required by the data structures like trees, you need to make structures as flat as possible
 * Try to make a folder structure of the project as shallow as possible
+* Don't build universal or multipurpose code (unless it is not in the tech spec), it is costly and extensive. Several simple solutions are better than one complex.
 
 ### Javascript
 
