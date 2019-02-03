@@ -127,6 +127,7 @@
     * [react-swipeable](https://www.npmjs.com/package/react-swipeable) - nice swipe detector
     * [formik](https://www.npmjs.com/package/formik) - nice form plugin
     * [react-svg](https://www.npmjs.com/package/react-svg)
+    * [sharp](https://www.npmjs.com/package/sharp) - an image converter
 * Website stress test
     * [loadtest](https://www.npmjs.com/package/loadtest)
 * Objects and data structures
