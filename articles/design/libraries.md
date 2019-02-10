@@ -5,3 +5,4 @@
 * [react-svg](https://www.npmjs.com/package/react-svg)
 * [bodymovin](https://aescripts.com/bodymovin/)
 * [sharp](https://www.npmjs.com/package/sharp)
+* [sqip](https://www.npmjs.com/package/sqip)

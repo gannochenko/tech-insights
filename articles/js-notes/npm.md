@@ -128,6 +128,7 @@
     * [formik](https://www.npmjs.com/package/formik) - nice form plugin
     * [react-svg](https://www.npmjs.com/package/react-svg)
     * [sharp](https://www.npmjs.com/package/sharp) - an image converter
+    * [sqip](https://www.npmjs.com/package/sqip) - an image placeholder generator
 * Website stress test
     * [loadtest](https://www.npmjs.com/package/loadtest)
 * Objects and data structures
@@ -173,3 +174,6 @@
     * [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - documentation generator for UI made with React
 * Services
     * [pusher](https://www.npmjs.com/package/pusher) - a publish/subscribe service
+* Styling
+    * [styled-components](https://www.npmjs.com/package/styled-components)
+        * [polished](https://www.npmjs.com/package/polished) - a companion library for styled-components

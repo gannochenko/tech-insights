@@ -54,3 +54,5 @@
 * Other
     * [json-schema](http://json-schema.org)
     * [networkeffect.io](http://networkeffect.io/)
+* Online graphic editors
+    * [vectr.com](https://vectr.com)
