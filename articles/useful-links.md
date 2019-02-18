@@ -55,4 +55,6 @@
     * [json-schema](http://json-schema.org)
     * [networkeffect.io](http://networkeffect.io/)
 * Online graphic editors
-    * [vectr.com](https://vectr.com)
+    * [photopea.com](https://www.photopea.com/) - raster editor
+    * [vectorpaint](http://vectorpaint.yaks.co.nz/) - a super simple one for editing SVG without gradients
+    * [gravit.io](https://gravit.io/) - super awesome, but not free

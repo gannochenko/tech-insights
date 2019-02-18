@@ -6,3 +6,4 @@
 * [bodymovin](https://aescripts.com/bodymovin/)
 * [sharp](https://www.npmjs.com/package/sharp)
 * [sqip](https://www.npmjs.com/package/sqip)
+* [jsPDF](https://parall.ax/products/jspdf)
