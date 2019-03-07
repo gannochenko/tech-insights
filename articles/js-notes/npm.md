@@ -162,6 +162,7 @@
     * [argv](https://www.npmjs.com/package/argv) - parse command-line options
 * Syntax highlighter (in-browser)
     * [highlight.js](https://www.npmjs.com/package/highlight.js)
+    * [prismjs.com](https://prismjs.com/)
 * Util
     * [tiny-emitter](https://www.npmjs.com/package/tiny-emitter)
 * Parsers
