@@ -13,7 +13,6 @@
         * [Adorable cats at Pixels](https://www.pexels.com/search/cat/)
     * [HDRI heaven](https://hdrihaven.com/)
 * [Webpack generator](http://web.jakoblind.no/webpack-config/)
-* [Fellow Students :)](https://github.com/zero-to-mastery)
 * [WhatWebCanDo](https://whatwebcando.today)
 * [Babel online](https://babeljs.io/en/repl)
 * [Can I Use](https://caniuse.com/)
@@ -58,3 +57,6 @@
     * [photopea.com](https://www.photopea.com/) - raster editor
     * [vectorpaint](http://vectorpaint.yaks.co.nz/) - a super simple one for editing SVG without gradients
     * [gravit.io](https://gravit.io/) - super awesome, but not free
+* Design helper tools
+    * [coolors.co](https://coolors.co) - color palette generator
+
