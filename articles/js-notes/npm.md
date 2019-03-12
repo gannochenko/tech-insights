@@ -45,6 +45,7 @@
     * [redux-logger](https://www.npmjs.com/package/redux-logger)
     * [redux-saga](https://github.com/redux-saga/redux-saga)
     * [redux reselect](https://github.com/reduxjs/reselect)
+    * [redux-watch](https://www.npmjs.com/package/redux-watch) - spy on a redux store
 * Helpers
     * [Ramda](https://ramdajs.com)
     * [Lodash](https://www.npmjs.com/search?q=lodash)
