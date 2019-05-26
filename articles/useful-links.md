@@ -59,4 +59,5 @@
     * [gravit.io](https://gravit.io/) - super awesome, but not free
 * Design helper tools
     * [coolors.co](https://coolors.co) - color palette generator
-
+* Recorders
+    * [asciinema](https://asciinema.org/) - a console recorder
