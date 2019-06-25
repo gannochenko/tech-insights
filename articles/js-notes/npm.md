@@ -73,14 +73,13 @@
     * [cypress](https://www.npmjs.com/package/cypress) - end-to-end testing tool
     * [react-testing-library](https://www.npmjs.com/package/react-testing-library) - test framework for react components
 * Debugging
-    * [debug](https://www.npmjs.com/package/debug) - just as replacement for 'console.log()' that can be switchable off
-* Mockers
-    * API
-        * [json-server](https://github.com/typicode/json-server)
+    * [debug](https://www.npmjs.com/package/debug) - just as replacement for 'console.log()' that can be switchable off   
 * Server emulators & re-spawners
     * [nodemon](https://www.npmjs.com/package/nodemon) - had problems with watching non-js files
     * [supervisor](https://www.npmjs.com/package/supervisor)
     * [webpack dev server](https://www.npmjs.com/package/webpack-dev-server)
+    * [json-server](https://github.com/typicode/json-server)
+    * [serve](https://www.npmjs.com/package/serve)
 * Data visualization
     * [bizcharts](https://www.npmjs.com/package/bizcharts)
 * REST
@@ -98,6 +97,7 @@
     * ORM / ODM
         * [knex](https://knexjs.org/)
         * [mongoose](https://mongoosejs.com/)
+        * [typeorm](https://typeorm.io) 💗
     * Mongo
         * [fawn](https://www.npmjs.com/package/fawn) - to make transactions
 * Security
