@@ -174,6 +174,8 @@
 * Documentation generators
     * [jsdoc](https://www.npmjs.com/package/jsdoc) - documentation generator for JavaScript
     * [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - documentation generator for UI made with React
+* Gesture recognition
+   * [handtrack](https://github.com/victordibia/handtrack.js/)
 * Services
     * [pusher](https://www.npmjs.com/package/pusher) - a publish/subscribe service
 * Styling
