@@ -61,3 +61,5 @@
     * [coolors.co](https://coolors.co) - color palette generator
 * Recorders
     * [asciinema](https://asciinema.org/) - a console recorder
+* Cloud
+    * [localstack.cloud](https://localstack.cloud/) - emulate AWS locally
