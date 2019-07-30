@@ -63,3 +63,5 @@
     * [asciinema](https://asciinema.org/) - a console recorder
 * Cloud
     * [localstack.cloud](https://localstack.cloud/) - emulate AWS locally
+* API mockup
+    * [apiary.io](https://apiary.io)
